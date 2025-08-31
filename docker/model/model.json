@@ -1,0 +1,9 @@
+{
+"out_channels": 14,
+"channels":     [32, 64, 128, 256],
+"convs":        [24, 48, 96, 192],
+"head_dim":     64,
+"e_layers":     [4, 6, 6, 8],
+"d_layers":     [4, 6, 6],
+"dropout":      0.0
+}
